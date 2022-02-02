@@ -3,7 +3,7 @@
 Use tracking hand to create a project which simulatates calculator 
 
 
-##Install
+## Install
 
 
 Clone repo
@@ -17,7 +17,7 @@ Requirements
 ```
 
 
-##Run 
+## Run 
 
 
 ```bash
@@ -25,7 +25,7 @@ $ python AI_calculator.py --number-hand 1 --model-complexity 0 --min-detect 0.5 
 ```
 
 
-##Instruct
+## Instruct
 
 
 control
